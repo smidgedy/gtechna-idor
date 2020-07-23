@@ -3,7 +3,7 @@ gtechna online parking ticket payment product as used by Parking Enforcement Ser
 that allows an attacker to view PII about every parking infringement ticket issued including timestamp + GPS location, car registration, 
 photos of the vehicle, details of any appeal etc.
 
-Have tried a few times to disclose to PES, whatever. Have also reached out to gtechna. Hundreds of thousands of drivers impacted.
+Have tried a few times to disclose to PES, whatever. Have also reached out to gtechna. Hundreds of thousands of drivers impacted in Australia.
 
 ## Usage
 
