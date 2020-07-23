@@ -10,7 +10,7 @@ Have tried a few times to disclose to PES, whatever. Have also reached out to gt
 Example - search for every ticket serial between 100000001 and 100000011 with 32 threads concurrently, saving in the folder tickets/
 `parking.py --min 100000001 --max 100000011 --destination tickets/ --threads 32`
 
-* Aussie tickets starting at 100000001
+* Aussie tickets starting at 100000001 and going at least as far as 108400000
 * NZ tickets starting looking around 751000000
 
 ## Note
