@@ -1,9 +1,9 @@
 # gtechna-idor
 gtechna online parking ticket payment product as used by Parking Enforcement Services in Australia + NZ contains a trivial IDOR 
-that allows an attacker to view PII about every ticket issued including timestamp + GPS location, car registration, photos of the 
-vehicle, details of any appeal etc.
+that allows an attacker to view PII about every parking infringement ticket issued including timestamp + GPS location, car registration, 
+photos of the vehicle, details of any appeal etc.
 
-Have tried a few times to disclose to PES, whatever.
+Have tried a few times to disclose to PES, whatever. Have also reached out to gtechna.
 
 ## Usage
 
